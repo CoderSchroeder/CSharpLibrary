@@ -42,9 +42,6 @@ namespace _0._04_Conditional_If
                 Console.WriteLine("Welcome to the Site Admin!");
             }
 
-
-
-
             if (!isAdmin) 
             {
                 Console.WriteLine("you should not be here");

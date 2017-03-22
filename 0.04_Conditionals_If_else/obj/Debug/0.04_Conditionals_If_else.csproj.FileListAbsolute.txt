@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditionals_If_else\bin\Debug\0.04_Conditionals_If_else.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditionals_If_else\bin\Debug\0.04_Conditionals_If_else.exe
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditionals_If_else\bin\Debug\0.04_Conditionals_If_else.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditionals_If_else\obj\Debug\0.04_Conditionals_If_else.exe
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditionals_If_else\obj\Debug\0.04_Conditionals_If_else.pdb
