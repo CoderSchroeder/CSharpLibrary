@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.03_String_Challenges\bin\Debug\0.03_String_Challenges.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.03_String_Challenges\bin\Debug\0.03_String_Challenges.exe
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.03_String_Challenges\bin\Debug\0.03_String_Challenges.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.03_String_Challenges\obj\Debug\0.03_String_Challenges.exe
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.03_String_Challenges\obj\Debug\0.03_String_Challenges.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.03_String_Challenges\obj\Debug\0.03_String_Challenges.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.02_BasicTypes_Challenges\bin\Debug\0.02_BasicTypes_Challenges.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.02_BasicTypes_Challenges\bin\Debug\0.02_BasicTypes_Challenges.exe
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.02_BasicTypes_Challenges\bin\Debug\0.02_BasicTypes_Challenges.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.02_BasicTypes_Challenges\obj\Debug\0.02_BasicTypes_Challenges.exe
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.02_BasicTypes_Challenges\obj\Debug\0.02_BasicTypes_Challenges.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.02_BasicTypes_Challenges\obj\Debug\0.02_BasicTypes_Challenges.csprojResolveAssemblyReference.cache
