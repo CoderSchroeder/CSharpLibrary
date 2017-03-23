@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditional_ReadLine\bin\Debug\0.04_Conditional_ReadLine.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditional_ReadLine\bin\Debug\0.04_Conditional_ReadLine.exe
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditional_ReadLine\bin\Debug\0.04_Conditional_ReadLine.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditional_ReadLine\obj\Debug\0.04_Conditional_ReadLine.exe
+c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditional_ReadLine\obj\Debug\0.04_Conditional_ReadLine.pdb

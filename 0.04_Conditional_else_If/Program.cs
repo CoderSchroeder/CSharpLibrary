@@ -10,7 +10,7 @@ namespace _0._04_Conditional_else_If
     {
         static void Main(string[] args)
         {
-            int bankAccount = 30000;
+            int bankAccount = 50000;
             int debt = 13500;
             int difference = bankAccount - debt;
 
