@@ -23,7 +23,7 @@ namespace _0._10_ForEach_Loops
             string[] names = new string[] { "James", "Paul", "Daniel", "Levi" };
             Console.WriteLine(numbers[0]);
             Console.WriteLine(lottoNums[5]);
-            
+            //              this labels the var
             foreach (string name in names)
             {
                 Console.WriteLine(name);
