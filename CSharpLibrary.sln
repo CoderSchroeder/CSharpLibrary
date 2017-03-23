@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.05_Objects_Challenge", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.06_Methods", "0.06_Methods\0.06_Methods.csproj", "{D3FC07FF-4BB4-4192-BEF6-40F6A7AEFC90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.06_Netflix_Challenge", "0.06_Netflix_Challenge\0.06_Netflix_Challenge.csproj", "{0777B80D-EC7D-4304-8AB8-9936C7EBB0A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_Methods_Overloading", "0.08_Methods_Overloading\0.08_Methods_Overloading.csproj", "{93943922-D45D-4E5E-B5C0-6B41EE9FA293}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{D3FC07FF-4BB4-4192-BEF6-40F6A7AEFC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3FC07FF-4BB4-4192-BEF6-40F6A7AEFC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3FC07FF-4BB4-4192-BEF6-40F6A7AEFC90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0777B80D-EC7D-4304-8AB8-9936C7EBB0A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0777B80D-EC7D-4304-8AB8-9936C7EBB0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0777B80D-EC7D-4304-8AB8-9936C7EBB0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0777B80D-EC7D-4304-8AB8-9936C7EBB0A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93943922-D45D-4E5E-B5C0-6B41EE9FA293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93943922-D45D-4E5E-B5C0-6B41EE9FA293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93943922-D45D-4E5E-B5C0-6B41EE9FA293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93943922-D45D-4E5E-B5C0-6B41EE9FA293}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
