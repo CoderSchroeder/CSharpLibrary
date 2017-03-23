@@ -10,6 +10,16 @@ namespace _0._09_Constructors
     {
         static void Main(string[] args)
         {
+
+            Student Daniel = new Student();
+            Daniel.FirstName = "Daniel";
+            Daniel.LastName = "Schroeder";
+            Daniel.Age = 32;
+
+            Student Shelby = new Student("Shelby");
+            Student charlesMichael = new Student("Charles", "Michael", 30, "Assassin");
+            Student jeremiah = new Student("Jeremiah", "Miller", 30, "Padawan");
+
         }
     }
 }

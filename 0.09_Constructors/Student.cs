@@ -19,6 +19,18 @@ namespace _0._09_Constructors
 
         }
 
+        public Student(string firstName)
+        {
+            this.FirstName = firstName;
+        }
+
+        public Student(string firstName, string lastName, int age, string level)
+        {
+            this.FirstName = firstName;
+            this.LastName = lastName;
+            this.Age = age;
+            this.Level = level;
+        }
 
     }
 }
