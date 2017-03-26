@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_Collections_ArraysOfOb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_Collections_Dictionaries", "0.10_Collections_Dictionaries\0.10_Collections_Dictionaries.csproj", "{EBB2AA99-98C7-42A2-90A9-44F446C23EF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.11_Inheritance", "0.11_Inheritance\0.11_Inheritance.csproj", "{684BD140-CB3D-4BDA-A3CC-20FF7A52E6C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.12_AccessModifiers", "0.12_AccessModifiers\0.12_AccessModifiers.csproj", "{B38D4306-5AC8-4D5E-B75D-67A59F62C869}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{EBB2AA99-98C7-42A2-90A9-44F446C23EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBB2AA99-98C7-42A2-90A9-44F446C23EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBB2AA99-98C7-42A2-90A9-44F446C23EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{684BD140-CB3D-4BDA-A3CC-20FF7A52E6C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684BD140-CB3D-4BDA-A3CC-20FF7A52E6C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684BD140-CB3D-4BDA-A3CC-20FF7A52E6C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684BD140-CB3D-4BDA-A3CC-20FF7A52E6C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38D4306-5AC8-4D5E-B75D-67A59F62C869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38D4306-5AC8-4D5E-B75D-67A59F62C869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38D4306-5AC8-4D5E-B75D-67A59F62C869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38D4306-5AC8-4D5E-B75D-67A59F62C869}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
