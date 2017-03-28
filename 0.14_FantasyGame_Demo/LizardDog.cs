@@ -11,14 +11,14 @@ namespace _0._14_FantasyGame_Demo
 
         Dictionary<string, int> Attacks = new Dictionary<string, int>
             {
-                {"Head-but", 5 },
+                {"Head-but", 20 },
                 { "Mallet", 15},
                 {"Poison Fangs", 25},
             };
 
         public LizardDog()
         {
-            this.PowerLevel = 40;
+            this.PowerLevel = 100;
             this.Name = "Lizard Dog";
         }
 

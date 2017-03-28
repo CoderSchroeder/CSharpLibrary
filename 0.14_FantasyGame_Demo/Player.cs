@@ -30,6 +30,11 @@ namespace _0._14_FantasyGame_Demo
             this.Type = type;
         }
 
+        public void Attack(LizardDog l)
+        {
+            l.PowerLevel -= 15;
+            Console.WriteLine("{0}'s power is at {1}%", l.Name, l.PowerLevel);
+        }
 
 
         public CharacterType ChooseType(int t)
@@ -90,12 +95,7 @@ namespace _0._14_FantasyGame_Demo
             Console.WriteLine("Clear Alcohols are for rich women on diets!");
         }
 
-        Dictionary<string, int> Attacks = new Dictionary<string, int>
-            {
-                {"FriedBacon", 5 },
-                { "Throw a bottle of Scotch", 15},
-                {"Meat-Tornado", 25},
-            };
+
 
     }
 }
