@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.01_Intro", "0.01_Intro\0.01_Intro.csproj", "{F5130643-DD00-4DAA-9883-3D4CB6F27E26}"
 EndProject
@@ -50,6 +50,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.11_Inheritance", "0.11_Inheritance\0.11_Inheritance.csproj", "{684BD140-CB3D-4BDA-A3CC-20FF7A52E6C7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.12_AccessModifiers", "0.12_AccessModifiers\0.12_AccessModifiers.csproj", "{B38D4306-5AC8-4D5E-B75D-67A59F62C869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.13_GettersAndSetters", "0.13_GettersAndSetters\0.13_GettersAndSetters.csproj", "{E0FDC102-01F5-4D8F-BBFD-5A5583E20737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.14_FantasyGame_Demo", "0.14_FantasyGame_Demo\0.14_FantasyGame_Demo.csproj", "{1DD0E963-F5DA-417C-B1C9-5869378D21D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +157,14 @@ Global
 		{B38D4306-5AC8-4D5E-B75D-67A59F62C869}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B38D4306-5AC8-4D5E-B75D-67A59F62C869}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B38D4306-5AC8-4D5E-B75D-67A59F62C869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0FDC102-01F5-4D8F-BBFD-5A5583E20737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0FDC102-01F5-4D8F-BBFD-5A5583E20737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0FDC102-01F5-4D8F-BBFD-5A5583E20737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0FDC102-01F5-4D8F-BBFD-5A5583E20737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DD0E963-F5DA-417C-B1C9-5869378D21D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD0E963-F5DA-417C-B1C9-5869378D21D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD0E963-F5DA-417C-B1C9-5869378D21D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD0E963-F5DA-417C-B1C9-5869378D21D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
