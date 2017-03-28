@@ -30,6 +30,8 @@ namespace _0._14_FantasyGame_Demo
             this.Type = type;
         }
 
+
+
         public CharacterType ChooseType(int t)
         {
             switch (t)
@@ -58,6 +60,7 @@ namespace _0._14_FantasyGame_Demo
             }
         }
 
+
         //make a method that you can call on a player object that prints out the players power
 
         public void HealthLevel()
@@ -73,6 +76,7 @@ namespace _0._14_FantasyGame_Demo
             Console.WriteLine("I NEED SCOTCH!!! WAAAAAA");
         }
 
+
         //Create a method of ToString that returns your players details
 
         public override string ToString()
@@ -80,6 +84,18 @@ namespace _0._14_FantasyGame_Demo
             return $"Player Name: {this.PlayerName}\nClan Name: {this.Clan}\nPlayer Type: {this.Type}";
         }
 
+
+        public void Insult()
+        {
+            Console.WriteLine("Clear Alcohols are for rich women on diets!");
+        }
+
+        Dictionary<string, int> Attacks = new Dictionary<string, int>
+            {
+                {"FriedBacon", 5 },
+                { "Throw a bottle of Scotch", 15},
+                {"Meat-Tornado", 25},
+            };
 
     }
 }

@@ -11,10 +11,9 @@ namespace _0._14_FantasyGame_Demo
     {
         static void Main(string[] args)
         {
-           /* SpeechSynthesizer talkingConsole = new SpeechSynthesizer();
+            SpeechSynthesizer talkingConsole = new SpeechSynthesizer();
             talkingConsole.Speak("What is your name?");
-           */
-
+           
             Console.WriteLine("What is your name?");
             string name = Console.ReadLine();
 
@@ -37,16 +36,18 @@ namespace _0._14_FantasyGame_Demo
             
             Console.WriteLine(Player.ToString());
 
-            LizardDog opponent = new LizardDog();
+            LizardDog lizardDog = new LizardDog();
 
             while (true)
             {
-                opponent.Insult();
+                lizardDog.Insult();
                 Console.WriteLine("Do you want to fight? y/n");
                 string userAnswer = Console.ReadLine();
                 if (userAnswer == "y")
                 {
-                    opponent.LizardAttack(Player);
+                    
+                    lizardDog.LizardAttack(Player);
+
                     if (Player.CurrentPower <= 0)
                     {
                         Console.WriteLine("The End");
@@ -60,12 +61,7 @@ namespace _0._14_FantasyGame_Demo
             }
 
             
-            
-
-            
-
-
-            Player.Battlecry();
+           Player.Battlecry();
 
             /* Enemy Quagga = new Enemy();
 
