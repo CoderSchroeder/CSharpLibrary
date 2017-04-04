@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace _0._10_ForLoop_SimpleProgram
 {
+
     class Program
     {
         static void Main(string[] args)

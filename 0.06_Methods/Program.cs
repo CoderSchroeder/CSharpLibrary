@@ -8,6 +8,8 @@ namespace _0._06_Methods
 {
     class Program
     {
+        public static string PrintCustmerName { get; private set; }
+
         static void Main(string[] args)
         {
 
@@ -16,7 +18,8 @@ namespace _0._06_Methods
             theJSWizard.FirstName = "James";
             theJSWizard.LastName = "Handshoe";
 
-            
+            Console.WriteLine(PrintCustmerName);
+            Console.ReadLine();
 
         }
     }

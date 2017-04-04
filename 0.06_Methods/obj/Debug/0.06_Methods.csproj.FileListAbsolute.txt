@@ -3,3 +3,9 @@ c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.06_Methods
 c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.06_Methods\bin\Debug\0.06_Methods.pdb
 c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.06_Methods\obj\Debug\0.06_Methods.exe
 c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.06_Methods\obj\Debug\0.06_Methods.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.06_Methods\bin\Debug\0.06_Methods.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.06_Methods\bin\Debug\0.06_Methods.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.06_Methods\bin\Debug\0.06_Methods.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.06_Methods\obj\Debug\0.06_Methods.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.06_Methods\obj\Debug\0.06_Methods.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.06_Methods\obj\Debug\0.06_Methods.pdb
