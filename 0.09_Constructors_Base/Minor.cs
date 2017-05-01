@@ -8,7 +8,7 @@ namespace _0._09_Constructors_Base
 {
     class Minor : Person
     {
-
+        // only need a base when refering to a parent class Constructor
         public Minor(string firstName, string lastName, int age, bool IsInSchool) : base(firstName, lastName, age)
         {
             this.IsInSchool = IsInSchool;

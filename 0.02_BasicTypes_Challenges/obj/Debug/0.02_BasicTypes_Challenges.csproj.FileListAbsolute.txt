@@ -4,3 +4,9 @@ c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.02_BasicTy
 c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.02_BasicTypes_Challenges\obj\Debug\0.02_BasicTypes_Challenges.exe
 c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.02_BasicTypes_Challenges\obj\Debug\0.02_BasicTypes_Challenges.pdb
 c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.02_BasicTypes_Challenges\obj\Debug\0.02_BasicTypes_Challenges.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.02_BasicTypes_Challenges\bin\Debug\0.02_BasicTypes_Challenges.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.02_BasicTypes_Challenges\bin\Debug\0.02_BasicTypes_Challenges.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.02_BasicTypes_Challenges\bin\Debug\0.02_BasicTypes_Challenges.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.02_BasicTypes_Challenges\obj\Debug\0.02_BasicTypes_Challenges.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.02_BasicTypes_Challenges\obj\Debug\0.02_BasicTypes_Challenges.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.02_BasicTypes_Challenges\obj\Debug\0.02_BasicTypes_Challenges.pdb
