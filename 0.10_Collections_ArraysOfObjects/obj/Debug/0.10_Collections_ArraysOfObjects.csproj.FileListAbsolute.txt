@@ -4,3 +4,9 @@ C:\Users\Daniel\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10_Collect
 C:\Users\Daniel\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10_Collections_ArraysOfObjects\obj\Debug\0.10_Collections_ArraysOfObjects.csprojResolveAssemblyReference.cache
 C:\Users\Daniel\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10_Collections_ArraysOfObjects\obj\Debug\0.10_Collections_ArraysOfObjects.exe
 C:\Users\Daniel\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10_Collections_ArraysOfObjects\obj\Debug\0.10_Collections_ArraysOfObjects.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_ArraysOfObjects\bin\Debug\0.10_Collections_ArraysOfObjects.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_ArraysOfObjects\bin\Debug\0.10_Collections_ArraysOfObjects.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_ArraysOfObjects\bin\Debug\0.10_Collections_ArraysOfObjects.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_ArraysOfObjects\obj\Debug\0.10_Collections_ArraysOfObjects.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_ArraysOfObjects\obj\Debug\0.10_Collections_ArraysOfObjects.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_ArraysOfObjects\obj\Debug\0.10_Collections_ArraysOfObjects.pdb

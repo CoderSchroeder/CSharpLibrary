@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.12
+VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.01_Intro", "0.01_Intro\0.01_Intro.csproj", "{F5130643-DD00-4DAA-9883-3D4CB6F27E26}"
 EndProject
@@ -51,7 +51,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.11_Inheritance", "0.11_In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.12_AccessModifiers", "0.12_AccessModifiers\0.12_AccessModifiers.csproj", "{B38D4306-5AC8-4D5E-B75D-67A59F62C869}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.13_GettersAndSetters", "0.13_GettersAndSetters\0.13_GettersAndSetters.csproj", "{E0FDC102-01F5-4D8F-BBFD-5A5583E20737}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0.13_GettersAndSetters", "0.13_GettersAndSetters\0.13_GettersAndSetters.csproj", "{E0FDC102-01F5-4D8F-BBFD-5A5583E20737}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.14_FantasyGame_Demo", "0.14_FantasyGame_Demo\0.14_FantasyGame_Demo.csproj", "{1DD0E963-F5DA-417C-B1C9-5869378D21D6}"
 EndProject
@@ -61,9 +61,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.16_Lists", "0.16_Lists\0.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.17_Linq", "0.17_Linq\0.17_Linq.csproj", "{451B686D-2F71-4FEE-92DC-666C8CD2336C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaygroundRandom", "PlaygroundRandom\PlaygroundRandom.csproj", "{0C1E3D66-6643-40D7-BF60-25E370403DE9}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.09_Constructors_Base", "0.09_Constructors_Base\0.09_Constructors_Base.csproj", "{2E801AA0-F5DD-4F8F-B798-DBC96E98CF02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.18_Playground", "0.18_Playground\0.18_Playground.csproj", "{233BC79C-5442-4BE9-B97B-59A8A3ED6CD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -187,14 +187,14 @@ Global
 		{451B686D-2F71-4FEE-92DC-666C8CD2336C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{451B686D-2F71-4FEE-92DC-666C8CD2336C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{451B686D-2F71-4FEE-92DC-666C8CD2336C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0C1E3D66-6643-40D7-BF60-25E370403DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0C1E3D66-6643-40D7-BF60-25E370403DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0C1E3D66-6643-40D7-BF60-25E370403DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0C1E3D66-6643-40D7-BF60-25E370403DE9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2E801AA0-F5DD-4F8F-B798-DBC96E98CF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2E801AA0-F5DD-4F8F-B798-DBC96E98CF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E801AA0-F5DD-4F8F-B798-DBC96E98CF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E801AA0-F5DD-4F8F-B798-DBC96E98CF02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{233BC79C-5442-4BE9-B97B-59A8A3ED6CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233BC79C-5442-4BE9-B97B-59A8A3ED6CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233BC79C-5442-4BE9-B97B-59A8A3ED6CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233BC79C-5442-4BE9-B97B-59A8A3ED6CD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.13_GettersAndSetters\bin\Debug\netcoreapp1.1\0.13_GettersAndSetters.deps.json
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.13_GettersAndSetters\bin\Debug\netcoreapp1.1\0.13_GettersAndSetters.runtimeconfig.json
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.13_GettersAndSetters\bin\Debug\netcoreapp1.1\0.13_GettersAndSetters.runtimeconfig.dev.json
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.13_GettersAndSetters\obj\Debug\netcoreapp1.1\0.13_GettersAndSetters.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.13_GettersAndSetters\obj\Debug\netcoreapp1.1\0.13_GettersAndSetters.AssemblyInfo.cs

@@ -3,3 +3,9 @@ c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditi
 c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditional_If\bin\Debug\0.04_Conditional_If.pdb
 c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditional_If\obj\Debug\0.04_Conditional_If.exe
 c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditional_If\obj\Debug\0.04_Conditional_If.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditional_If\bin\Debug\0.04_Conditional_If.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditional_If\bin\Debug\0.04_Conditional_If.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditional_If\bin\Debug\0.04_Conditional_If.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditional_If\obj\Debug\0.04_Conditional_If.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditional_If\obj\Debug\0.04_Conditional_If.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditional_If\obj\Debug\0.04_Conditional_If.pdb

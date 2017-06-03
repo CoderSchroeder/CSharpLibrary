@@ -4,3 +4,9 @@ c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditi
 c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditionals_Switch\obj\Debug\0.04_Conditionals_Switch.csprojResolveAssemblyReference.cache
 c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditionals_Switch\obj\Debug\0.04_Conditionals_Switch.exe
 c:\users\daniel\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditionals_Switch\obj\Debug\0.04_Conditionals_Switch.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditionals_Switch\bin\Debug\0.04_Conditionals_Switch.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditionals_Switch\bin\Debug\0.04_Conditionals_Switch.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditionals_Switch\bin\Debug\0.04_Conditionals_Switch.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditionals_Switch\obj\Debug\0.04_Conditionals_Switch.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditionals_Switch\obj\Debug\0.04_Conditionals_Switch.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditionals_Switch\obj\Debug\0.04_Conditionals_Switch.pdb

@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.05_Objects_Challenge\bin\Debug\0.05_Objects_Challenge.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.05_Objects_Challenge\bin\Debug\0.05_Objects_Challenge.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.05_Objects_Challenge\bin\Debug\0.05_Objects_Challenge.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.05_Objects_Challenge\obj\Debug\0.05_Objects_Challenge.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.05_Objects_Challenge\obj\Debug\0.05_Objects_Challenge.pdb

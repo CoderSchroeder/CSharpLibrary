@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.18_Playground\bin\Debug\0.18_Playground.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.18_Playground\bin\Debug\0.18_Playground.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.18_Playground\bin\Debug\0.18_Playground.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.18_Playground\obj\Debug\0.18_Playground.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.18_Playground\obj\Debug\0.18_Playground.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.18_Playground\obj\Debug\0.18_Playground.pdb
