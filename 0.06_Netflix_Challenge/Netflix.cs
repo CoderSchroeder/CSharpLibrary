@@ -35,7 +35,6 @@ namespace _0._06_Netflix_Challenge
             return this.TotalMinutes;
         }
 
-        //Methods that have parameters
         public string ShowWhoViewed(string username, string time)
         {
             string details = username + " watched this at " + time;
